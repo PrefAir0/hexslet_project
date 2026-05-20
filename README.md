@@ -7,10 +7,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PrefAir0_hexslet_project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=PrefAir0_hexslet_project)
 
 
-
-
-<script src="https://asciinema.org/a/pl6P23YI6weDF7C3.js" id="asciicast-pl6P23YI6weDF7C3" async="true"></script>
-
 [![asciicast](https://asciinema.org/a/pl6P23YI6weDF7C3.svg)](https://asciinema.org/a/pl6P23YI6weDF7C3)
 [![asciicast](https://asciinema.org/a/LioGji2bvC6xmn5c.svg)](https://asciinema.org/a/LioGji2bvC6xmn5c)
 [![asciicast](https://asciinema.org/a/xyrALtO9yip9rsbK.svg)](https://asciinema.org/a/xyrALtO9yip9rsbK)
