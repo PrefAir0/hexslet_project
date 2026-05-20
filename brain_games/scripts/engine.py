@@ -11,7 +11,7 @@ def run_game(game_logic, game_rule):
     print(f"Hello, {name}!")
     print(game_rule)
 
-    for i in range(ROUNDS_COUNT):
+    for _ in range(ROUNDS_COUNT):
         question, correct_answer = game_logic()
 
         print(f"Question: {question}")
